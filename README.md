@@ -5,8 +5,9 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20and%20Machine%20Learning%20Engineer;Specializing%20in%20Image%20and%20Audio%20Processing;Building%20Future%20Tech%20Companies;Always%20learning%20new%20things!&center=true&width=440&height=45&color=3498db&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20and%20Machine%20Learning%20Engineer;Expert%20in%20Image%20%26%20Audio%20Processing;Building%20Future%20Tech%20Companies;Always%20learning%20new%20things!&center=true&width=600&height=45&color=3498db&vCenter=true&size=22"></a>
 </p>
+
 
 ## 🛠️ My favorite tools
 
