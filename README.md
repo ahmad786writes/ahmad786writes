@@ -55,7 +55,7 @@
 ---
 
 - 🌍 Currently living in Riyadh, Saudi Arabia 🇸🇦
-- 🎓 Pursuing a Master's in Data Science and Machine Learning soon. 
+- 🎓 Master in working with Data Science and Machine Learning Tools. 
 - 💼 AI Engineer at Devster Labs, focused on Audio Signal Processing, Natural Language Processing and Computer Vision Related Tasks
 - 🌱 Interested in growing a freelance AI/ML business and building tech companies
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmad786-writes/) or send an [Email](mailto:ahmad786.writes@gmail.com)
