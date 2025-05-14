@@ -85,7 +85,7 @@ Want a deep dive? Let’s chat on [LinkedIn](https://www.linkedin.com/in/ahmad78
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmad786writes&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://streak-stats.demolab.com?user=ahmad786writes&theme=tokyonight&hide_border=true" />
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmad786writes&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad786writes&theme=dracula" />
 </p>
