@@ -83,7 +83,7 @@ Want a deep dive? Let’s chat on [LinkedIn](https://www.linkedin.com/in/ahmad78
 ## 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmad786writes&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="50%" src="https://github-readme-streak-stats-eight.vercel.app/?user=ahmad786writes&theme=tokyonight&hide_border=true" />
+  <img width="51%" src="https://github-readme-streak-stats-eight.vercel.app/?user=ahmad786writes&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad786writes&theme=dracula" />
