@@ -16,7 +16,7 @@
 name: Ahmad Liaqat
 title: AI / ML Engineer & Researcher
 location: Riyadh, Saudi Arabia 🇸🇦
-current_role: AI Engineer @ Devster Labs
+current_role: AI Researcher @ GIFT University
 interests:
   - Generative AI
   - Computer Vision
