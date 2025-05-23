@@ -16,7 +16,7 @@
 name: Ahmad Liaqat
 title: AI / ML Engineer & Researcher
 location: Riyadh, Saudi Arabia 🇸🇦
-current_role: AI Researcher @ GIFT University
+current_role: AI Researcher @ GIFT University and Agentic AI Engineer @ GAIT
 interests:
   - Generative AI
   - Computer Vision
